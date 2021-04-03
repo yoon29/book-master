@@ -1,7 +1,7 @@
 @ECHO ON
 title Kiwoom Start
 
-cd C:\Users\Administrator\PycharmProjects\kiwoom\week1
+cd C:\PycharmProjects\book-master\week1
 
 call activate py37_32
 python __init__.py
